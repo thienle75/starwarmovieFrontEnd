@@ -1,1 +1,2 @@
-starwarmovieFrontEnd
+npm install
+npm start
